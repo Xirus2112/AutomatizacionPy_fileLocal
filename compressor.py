@@ -1,5 +1,5 @@
 from PIL import Image # python3 -m pip install Pillow
-
+# Prueba de sincronizacion git
 import os
 
 downloadsFolder = "/Users/nicolasschurmann/Downloads/"
